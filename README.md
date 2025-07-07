@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-.[![Behance][![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/nikithapothana)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/nikithapothana)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikitha-pothanapalli-13b6a0289/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikithapothanapalli71@gmail.com) 
 
 # 💻 Tech Stack:
